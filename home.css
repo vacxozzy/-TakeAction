@@ -1,0 +1,86 @@
+#header{
+    border-bottom: thick solid #3A1C40;
+    padding-bottom: 3% ;
+}
+body {
+  font-family: 'Aclonica', serif;
+}
+#title {
+font-family: 'Playfair Display', serif;
+color: #5E467F ;
+font-size: 500%;
+border-bottom:thick solid #3A1C40 ;
+}
+#bio {
+    font-size:20px;
+    margin-left:300px;
+    margin-right:300px;
+}
+.hashtags { 
+    text-align:center;
+    font-size: 150%;
+}
+#fist {
+    width:50%;
+    height:10%;
+
+}
+.search {
+    margin: 3% ;
+}
+a {
+    color: #74387F;
+}
+#blmtext {
+    display:none;
+    text-align: center;
+}
+#aleppotext {
+    display: none;
+}
+#lgbtqtext {
+    display:none;
+}
+#vegantext {
+    display:none;
+    text-align:center;
+}
+div.info img{
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    text-align: center; 
+
+}
+.hashtags{
+    border:2px solid gray;
+    border-radius:10px;
+    Width:200px;
+    margin-bottom:3px;
+}
+#header {
+    padding-bottom: 1%;
+}
+.hashtags:hover {
+    background-color: #5E467F;
+    color: white;
+}
+.info {
+    width:50%;
+    text-align: center;
+    margin: ;
+}
+.description {
+    font-size: 20px;
+}
+#actions-carousel{
+    margin-top: 3%;
+    margin-left:75px;
+    margin-right:75px;
+    margin-bottom: 3%;
+    
+}
+.aleppo {
+    text-align:center;
+}
+
